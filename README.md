@@ -1,0 +1,2 @@
+# translationManager
+Translation mangement plugin
