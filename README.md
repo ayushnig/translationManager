@@ -3,5 +3,5 @@
 Translation mangement plugin
 
 Usage---
-npm install
-electron .
+1.) npm install
+2.) electron .
